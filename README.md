@@ -91,5 +91,4 @@ Once you're logged in on Linux, key redemption happens through the launcher UI n
 * Test on NVIDIA (I'm on AMD via radv)
 * Test on Gnome X11
 
-
-Co-Authored By: Claude Code 
+Note: This writeup was produced with assistance from Claude (Anthropic). Steps were tested on my setup but please verify commands and paths before running them on yours.
